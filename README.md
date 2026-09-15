@@ -1,8 +1,7 @@
-# Java Portfolio - PenPals Project
+# Java Portfolio - File I/O Verb Translator
 
 ## Overview
-Developed for the Object-Oriented Programming Java portfolio coursework. This project demonstrates key Java OOP concepts including, array management, encapsulation, error handling, and code documentation.   
+Developed for the Object-Oriented Programming Java portfolio coursework. This project demonstrates key concepts including File I/O stream handling, string handling, and method overloading.   
 
 ## Technologies Used
 * Java
-* Javadoc
