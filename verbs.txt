@@ -1,0 +1,13 @@
+walk=arukimasu
+work=hatarakimasu
+talk=hanashimasu
+open=akemasu
+enter=hairimasu
+climb=noborimasu
+collect=atsumemasu
+complain=monkuwoiimasu
+destroy=kowashimasu
+explain=setsumeishimasu
+kick=kerimasu
+laugh=waraimasu
+look=mimasu
